@@ -1,0 +1,16 @@
+Author: 'TheLBlack'
+
+Targets:
+  - firstpage.pl:
+      method: tcp
+      players: 500
+      max-players: 669
+      motd: 'motd example'
+      protocol: 69
+      protocol-name: '1.0'
+      default-favicon: true
+      favicon-path: 'image.png'
+      players-sample:
+        - 4566e69f-c907-48ee-8d71-d7ba5aa00d20: 'thinkofdeath'
+      ips:
+        - 0.0.0.0
